@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  project1
+//  project
 //
-//  Created by jularat khunrat on 27/10/2563 BE.
+//  Created by Tanatchaya K on 16/10/2563 BE.
 //
 
 import UIKit
